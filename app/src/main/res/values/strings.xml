@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- -app name -->
+    <string name="app_name">MusicalTheoryQuiz</string>
+
+    <!-- buttons -->
+    <string name="true_button">Верно</string>
+    <string name="false_button">Неверно</string>
+    <string name="menu_button">Меню</string>
+    <string name="again_button">Еще раз</string>
+    <string name="result">Ты ответил правильно на </string>
+
+    <!-- dorian scale -->
+    <string name="dorian_scale_question">Дорийский лад - минорный лад с пониженной пятой ступенью</string>
+    <string name="dorian_scale_answer">У дорийского лада - повышенная шестая ступень</string>
+
+    <!-- minor scale -->
+    <string name="minor_scale_question">Минорный лад - тон, полутон, тон, тон, полутон, тон, тон</string>
+    <string name="minor_scale_answer">Минорный лад здесь изложен верно</string>
+
+    <!-- major scale -->
+    <string name="major_scale_question">Мажорный лад - тон, полутон, тон, тон, полутон, тон, тон</string>
+    <string name="major_scale_answer">Мажорный лад - тон, тон, полутон, тон, тон, тон, полутон</string>
+
+    <!-- C minor -->
+    <string name="C_minor_question">С (до) минор - C, D, D#, F, G, G#, A#, C</string>
+    <string name="C_minor_answer">C (до) минор здесь изложен верно</string>
+
+    <!-- C sharp minor -->
+    <string name="C_sharp_minor_question">C# (до-диез) минор - C#, D#, F#, G, C, C#</string>
+    <string name="C_sharp_minor_answer">C# (до-диез) минор здесь изложен верно</string>
+</resources>
